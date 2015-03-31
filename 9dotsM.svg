@@ -54,12 +54,12 @@
          glyph-name="#"
          id="glyph4814"
          unicode="#"
-         d="m 0,1000 0,-600.00195 299.99805,0 0,-299.99805 599.99414,0 0,599.99609 -299.9961,0 0,299.9961 z" />
+         d="m 899.99219,1000 -599.9961,-0.008 0,-299.9961 L 0,699.99609 0,100 l 599.99414,0 0,299.99805 299.99805,0 0,600.00195 z" />
       <glyph
          glyph-name="$"
          id="glyph4840"
          unicode="$"
-         d="m 300,1000 0,-300 -300,0 0,-600 600,0 0,300 300,0 0,600 z" />
+         d="m 0,1000 0,-600 300,0 0,-300 600,0 0,600 -300,0 0,300 -600,0 z" />
       <glyph
          glyph-name="%"
          id="glyph4869"
@@ -534,10 +534,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-30.800161"
+     inkscape:cx="363.48555"
      inkscape:cy="565.57466"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer69"
      showgrid="true"
      inkscape:window-width="1827"
      inkscape:window-height="1057"
@@ -1878,23 +1878,21 @@
      sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0,0 0,600.00195 299.99805,0 0,299.99805 599.99414,0 0,-599.99609 -299.9961,0 0,-299.9960975 z"
+       d="m 899.99219,0 -599.9961,0.0078125 0,299.9960975 L 0,300.00391 0,900 l 599.99414,0 0,-299.99805 299.99805,0 0,-600.00195 z"
        id="rect4454-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="$"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0 0,300 -300,0 0,600 600,0 0,-300 300,0 0,-600 z"
+       d="m 0,0 0,600 300,0 0,300 600,0 0,-600 -300,0 L 600,0 0,0 Z"
        id="rect4360-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
