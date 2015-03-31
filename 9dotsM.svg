@@ -31,13 +31,14 @@
          id="9dotsMin"
          font-family="9dotsM" />
       <missing-glyph
-         d="M0,0h1000v1024h-1000z"
+         d="m 0,1000 0,-300 300,0 0,300 -300,0 z m 600,0 0,-300 300,0 0,300 -300,0 z M 0,400 0,100 l 300,0 0,300 -300,0 z m 600,0 0,-300 300,0 0,300 -300,0 z"
          id="missing-glyph4751" />
       <glyph
          glyph-name="SP"
          id="glyph3750"
          horiz-adv-x="300"
-         unicode=" " />
+         unicode=" "
+         d="m Z" />
       <glyph
          glyph-name="!"
          id="glyph4772"
@@ -101,7 +102,7 @@
          glyph-name=","
          id="glyph5047"
          unicode=","
-         horiz-adv-x="600"
+         horiz-adv-x="300"
          d="m 0,700 300,0 0,-600 -300,0 z" />
       <glyph
          glyph-name="-"
