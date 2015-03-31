@@ -14,12 +14,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="9dots.svg">
+   sodipodi:docname="9dotsM.svg">
   <defs
      id="defs4">
     <font
-       horiz-adv-x="1200"
-       id="9dots"
+       horiz-adv-x="900"
+       id="9dotsMin"
        inkscape:label="9dots"
        horiz-origin-x="0"
        horiz-origin-y="0"
@@ -28,20 +28,22 @@
        vert-adv-y="90">
       <font-face
          units-per-em="900"
-         id="9dots"
-         font-family="9dots" />
+         id="9dotsMin"
+         font-family="9dotsM" />
       <missing-glyph
          d="M0,0h1000v1024h-1000z"
          id="missing-glyph4751" />
       <glyph
          glyph-name="SP"
          id="glyph3750"
+         horiz-adv-x="300"
          unicode=" " />
       <glyph
          glyph-name="!"
          id="glyph4772"
          unicode="!"
-         d="m 300,1000 0,-900 300,0 0,299.99609 300,0 L 900,1000 Z" />
+         horiz-adv-x="600"
+         d="m 0,1000 0,-900 300,0 0,299.99609 300,0 L 600,1000 0,1000 Z" />
       <glyph
          glyph-name="&quot;"
          id="glyph4794"
@@ -71,17 +73,20 @@
          glyph-name="'"
          id="glyph4918"
          unicode="'"
+         horiz-adv-x="600"
          d="m 300.00586,999.99219 0,-299.99805 -299.9980475,0 0,-299.99609 299.9980475,0 0,299.99414 299.99609,0 0,300 -299.99609,0 z" />
       <glyph
          glyph-name="("
          id="glyph4943"
          unicode="("
+         horiz-adv-x="600"
          d="m 0,1000 0,-900 600,0 0,300 -300,0 0,300 300,0 0,300 z" />
       <glyph
          glyph-name=")"
          id="glyph4945"
          unicode=")"
-         d="m 300,1000 0,-300 300,0 0,-300 -300,0 0,-300 600,0 0,900 z" />
+         horiz-adv-x="600"
+         d="m 0,1000 0,-300 300,0 0,-300 -300,0 0,-300 600,0 0,900 z" />
       <glyph
          glyph-name="*"
          id="glyph4999"
@@ -96,7 +101,8 @@
          glyph-name=","
          id="glyph5047"
          unicode=","
-         d="m 299.99988,699.99277 300,0 0,-600 -300,0 z" />
+         horiz-adv-x="600"
+         d="m 0,700 300,0 0,-600 -300,0 z" />
       <glyph
          glyph-name="-"
          id="glyph5070"
@@ -106,7 +112,8 @@
          glyph-name="."
          id="glyph5086"
          unicode="."
-         d="m 299.99634,399.99634 299.99634,0 0,-299.99634 -299.99634,0 z" />
+         horiz-adv-x="300"
+         d="M 0.00366,399.99634 300,399.99634 300,100 0.00366,100 Z" />
       <glyph
          glyph-name="/"
          id="glyph5120"
@@ -166,15 +173,18 @@
          glyph-name=":"
          id="glyph5447"
          unicode=":"
-         d="m 300,999.99219 0,-300 300,0 0,300 -300,0 z m 0,-600 0,-300 300,0 0,300 -300,0 z" />
+         horiz-adv-x="300"
+         d="m 0,1000 0,-300 300,0 0,300 -300,0 z m 0,-600 0,-300 300,0 0,300 -300,0 z" />
       <glyph
          glyph-name=";"
          id="glyph5469"
          unicode=";"
+         horiz-adv-x="600"
          d="m 300,1000 0,-300 300,0 0,300 -300,0 z M 0,400 0,100 l 600,0 0,300 -600,0 z" />
       <glyph
          glyph-name="&lt;"
          id="glyph5524"
+         horiz-adv-x="600"
          d="m 300,1000 0,-300 -300,0 0,-300 300,0 0,299.99805 299.99805,0 0,300.00195 L 300,1000 Z m 0,-600 0,-300 299.99805,0 0,300 L 300,400 Z"
          unicode="&lt;" />
       <glyph
@@ -186,7 +196,8 @@
          glyph-name="&gt;"
          id="glyph5559"
          unicode="&gt;"
-         d="m 300,1000 0,-300 300,0 0,300 -300,0 z m 300,-300 0,-300 300,0 0,300 -300,0 z m 0,-300 -300,0 0,-300 300,0 0,300 z" />
+         horiz-adv-x="600"
+         d="m 0,1000 0,-300 300,0 0,300 -300,0 z m 300,-300 0,-300 300,0 0,300 -300,0 z m 0,-300 -300,0 0,-300 300,0 0,300 z" />
       <glyph
          glyph-name="?"
          id="glyph5598"
@@ -241,7 +252,8 @@
          glyph-name="I"
          id="glyph5852"
          unicode="I"
-         d="m 300,999.98828 0,-899.99805 300,0 0,899.99805 -300,0 z" />
+         horiz-adv-x="300"
+         d="m 0,1000 0,-899.99805 300,0 L 300,1000 0,1000 Z" />
       <glyph
          glyph-name="J"
          id="glyph5877"
@@ -331,6 +343,7 @@
          glyph-name="["
          id="glyph6320"
          unicode="["
+         horiz-adv-x="600"
          d="m 0,1000 0,-900 600,0 0,300 -300,0 0,600 z" />
       <glyph
          glyph-name="\"
@@ -341,7 +354,8 @@
          glyph-name="]"
          id="glyph6367"
          unicode="]"
-         d="m 300,1000 0,-300 300,0 0,-600 300,0 0,900 z" />
+         horiz-adv-x="600"
+         d="m 0,1000 0,-300 300,0 0,-600 300,0 0,900 z" />
       <glyph
          glyph-name="^"
          id="glyph6369"
@@ -356,6 +370,7 @@
          glyph-name="`"
          id="glyph6474"
          unicode="`"
+         horiz-adv-x="600"
          d="m 0,1000 0,-300 300,0 0,300 -300,0 z m 300,-300 0,-300 300,0 0,300 -300,0 z" />
       <glyph
          glyph-name="a"
@@ -401,7 +416,8 @@
          glyph-name="i"
          id="glyph6492"
          unicode="i"
-         d="m 300,999.98828 0,-899.99805 300,0 0,899.99805 -300,0 z" />
+         horiz-adv-x="300"
+         d="m 0,1000 0,-899.99805 300,0 L 300,1000 0,1000 Z" />
       <glyph
          glyph-name="j"
          id="glyph6494"
@@ -517,10 +533,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="94.914128"
-     inkscape:cy="394.14609"
+     inkscape:cx="-30.800161"
+     inkscape:cy="565.57466"
      inkscape:document-units="px"
-     inkscape:current-layer="layer69"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1827"
      inkscape:window-height="1057"
@@ -543,7 +559,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1836,11 +1852,10 @@
      sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0 0,900 300,0 0,-299.99609 300,0 L 900,0 Z"
+       d="m 0,0 0,900 300,0 0,-299.99609 300,0 L 600,0 0,0 Z"
        transform="translate(0,2288.976)"
        id="rect4346-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1910,8 +1925,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="'"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4894"
@@ -1942,11 +1957,11 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label=")"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0 0,300 300,0 0,300 -300,0 0,300 600,0 0,-900 z"
+       d="m 0,0 0,300 300,0 0,300 -300,0 0,300 600,0 0,-900 z"
        id="rect4392-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
@@ -1980,11 +1995,11 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label=","
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 299.99988,300.00723 300,0 0,600 -300,0 z"
+       d="m 0,300 300,0 0,600 -300,0 z"
        id="rect4412-6"
        inkscape:connector-curvature="0" />
   </g>
@@ -2004,11 +2019,11 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="."
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 299.99634,600.00366 299.99634,0 0,299.99634 -299.99634,0 z"
+       d="M 0.00366,600.00366 300,600.00366 300,900 0.00366,900 Z"
        id="rect4414-0"
        inkscape:connector-curvature="0" />
   </g>
@@ -2156,11 +2171,11 @@
      inkscape:groupmode="layer"
      id="layer27"
      inkscape:label=":"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0.0078125 0,299.9999975 300,0 0,-299.9999975 -300,0 z m 0,599.9999975 0,300 300,0 0,-300 -300,0 z"
+       d="M 0,0 0,300 300,300 300,0 0,0 Z m 0,600 0,300 300,0 0,-300 -300,0 z"
        id="rect4424-0"
        inkscape:connector-curvature="0" />
   </g>
@@ -2204,11 +2219,11 @@
      inkscape:groupmode="layer"
      id="layer31"
      inkscape:label="&gt;"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0 0,300 300,0 0,-300 -300,0 z m 300,300 0,300 300,0 0,-300 -300,0 z m 0,300 -300,0 0,300 300,0 0,-300 z"
+       d="M 0,0 0,300 300,300 300,0 0,0 Z m 300,300 0,300 300,0 0,-300 -300,0 z m 0,300 -300,0 0,300 300,0 0,-300 z"
        id="rect4444-4"
        inkscape:connector-curvature="0" />
   </g>
@@ -2348,7 +2363,7 @@
      sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0.01171875 0,899.99805125 300,0 0,-899.99805125 -300,0 z"
+       d="m 0,0 0,899.99805 300,0 L 300,0 0,0 Z"
        id="rect4184-4"
        inkscape:connector-curvature="0" />
   </g>
@@ -2596,11 +2611,11 @@
      inkscape:groupmode="layer"
      id="layer62"
      inkscape:label="]"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0 0,300 300,0 0,600 300,0 0,-900 z"
+       d="m 0,0 0,300 300,0 0,600 300,0 0,-900 z"
        id="rect4460-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -2633,8 +2648,8 @@
      inkscape:groupmode="layer"
      id="layer65"
      inkscape:label="`"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0,0 0,300 300,300 300,0 0,0 Z m 300,300 0,300 300,0 0,-300 -300,0 z"
