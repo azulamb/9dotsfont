@@ -28,7 +28,7 @@
        vert-adv-y="90">
       <font-face
          units-per-em="900"
-         id="9dots"
+         id="font-face5"
          font-family="9dots" />
       <missing-glyph
          d="m 0,1000 0,-300 300,0 0,300 -300,0 z m 600,0 0,-300 300,0 0,300 -300,0 z M 0,400 0,100 l 300,0 0,300 -300,0 z m 600,0 0,-300 300,0 0,300 -300,0 z"
@@ -332,7 +332,7 @@
          glyph-name="["
          id="glyph6320"
          unicode="["
-         d="m 0,1000 0,-900 600,0 0,300 -300,0 0,600 z" />
+         d="m 0,1000 0,-900 300,0 0,600 300,0 0,300 -600,0 z" />
       <glyph
          glyph-name="\"
          id="glyph6345"
@@ -342,7 +342,7 @@
          glyph-name="]"
          id="glyph6367"
          unicode="]"
-         d="m 300,1000 0,-300 300,0 0,-600 300,0 0,900 z" />
+         d="m 600,1000 0,-600 -300,0 0,-300 600,0 0,900 -300,0 z" />
       <glyph
          glyph-name="^"
          id="glyph6369"
@@ -518,15 +518,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-5.74209"
-     inkscape:cy="-3.3353344"
+     inkscape:cx="494.28342"
+     inkscape:cy="319.91348"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer60"
      showgrid="true"
-     inkscape:window-width="1827"
-     inkscape:window-height="1057"
-     inkscape:window-x="1358"
-     inkscape:window-y="892"
+     inkscape:window-width="2072"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="891"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -1624,28 +1624,32 @@
        width="10"
        height="30"
        x="-550"
-       y="1292.3618" />
+       y="-1322.3618"
+       transform="scale(1,-1)" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4458"
        width="10"
        height="10"
        x="-540"
-       y="1312.3618" />
+       y="-1302.3618"
+       transform="scale(1,-1)" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4460"
        width="20"
        height="10"
        x="-460"
-       y="1292.3619" />
+       y="-1322.3619"
+       transform="scale(1,-1)" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4462"
        width="10"
        height="30"
        x="-450"
-       y="1292.3619" />
+       y="-1322.3619"
+       transform="scale(1,-1)" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4464"
@@ -2637,10 +2641,9 @@
      sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0,0 0,900 600,0 0,-300 -300,0 0,-600 z"
+       d="m 0,0 0,900 300,0 0,-600 300,0 L 600,0 0,0 Z"
        id="rect4456-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2658,14 +2661,13 @@
      inkscape:groupmode="layer"
      id="layer62"
      inkscape:label="]"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 300,0 0,300 300,0 0,600 300,0 0,-900 z"
+       d="m 600,0 0,600 -300,0 0,300 600,0 0,-900 -300,0 z"
        id="rect4460-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
